@@ -1,0 +1,60 @@
+p{
+    background-color: aqua;
+}
+/*.second{
+    border: 6px solid black;
+    color: brown;
+    padding: 10px;
+    margin:25px ;
+}*/
+/*ben css yapıyorum*/
+#third{
+    background-color:red ;
+    border: 2px solid;
+}
+div {
+    border: 1px solid black;
+    padding: 40px;
+    margin: 40px;
+  }
+
+
+  .color-style{
+    background-color:rgb(0,0,255) ;
+
+  }
+  .color-style2{
+    background-color:#d2bea71c;
+  }
+  #one{
+    border:2px dotted ;
+  }
+  #two{
+    border:2px dashed ;
+  }
+  #three{
+    border:2px double  ;
+  }
+  
+  #four{
+    border:6px groove  ;
+  }
+  
+  #five{
+    border:4px ridge  ;
+  }
+  
+  #six{
+    border:6px inset ;
+  }
+  
+  #seven{
+    border:6px outset  ;
+  }
+  #eight{
+    border:6px none  ;
+  }
+  #nine{
+    border-style:solid dotted dashed inset
+  }
+  
