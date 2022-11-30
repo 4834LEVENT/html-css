@@ -1,0 +1,56 @@
+/*body{
+    background-color: bisque;
+}*/
+
+    /* background için css*/
+/*body{
+    background-image: url(../img/2_org_zoom.webp);
+
+}
+p{
+    background-color: rgb(207, 73, 73);
+    background-image: url(../img/31Bo6IOAyoL._SX302_BO1\,204\,203\,200_.jpg) ;
+    background-repeat:no-repeat ;
+    background-size:100% ;
+}
+a{
+    background-color: rgb(21, 255, 0);
+    opacity: 0.3;
+}
+div p{
+    background-color: rgba(226, 159, 14, 0.199);
+    
+}
+div{
+    border: 4px solid;
+    width: 400px;
+    
+
+}
+
+div a{
+    background-color:rgba(100, 150, 200, 0.678) ;
+    opacity: 1;
+}*/
+
+
+/*background1 için css*/
+
+
+/*body{
+    background-image: url(../img/6_org_zoom.webp);
+    background-size:300px ;
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+}*/
+
+body{
+    background:rgb(204, 116, 116) url(../img/31Bo6IOAyoL._SX302_BO1\,204\,203\,200_.jpg) no-repeat fixed   right top  ;
+}
+.border-style{
+    border-left:5px solid red ;
+    border-bottom: 10px dashed yellow;
+    border-right:15px dotted green ;
+    border-top:20px inset blue ;
+    border-bottom-left-radius: 10px;bor
+}
